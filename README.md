@@ -207,7 +207,7 @@ git push origin feature/sua-feature
 - Distribuído sob licença MIT.
 - [MIT License](https://opensource.org/license/mit)
 
-[Copyright (c) 2024 João Pedro H](https://www.linkedin.com/in/jo%C3%A3o-pedro-h-1a8000345/).
+[Copyright (c) 2025 João Pedro H](https://www.linkedin.com/in/jo%C3%A3o-pedro-h-1a8000345/).
 
 Permissão gratuita a qualquer um obter uma cópia deste software e seus arquivos. Software Open Source.
 
