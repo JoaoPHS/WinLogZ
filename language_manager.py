@@ -14,7 +14,7 @@ LANGUAGES = {
         'status_complete_clean': ">>> ANÁLISE CONCLUÍDA: SISTEMA LIMPO",
         'status_error': ">>> ERRO NO SISTEMA",
 
-        'developed_by': "Desenvolvido por: João Pedro H. > Github: @JoaoPHS",
+        'developed_by': "Desenvolvido por: João Pedro H. > Gitlab: @PHDevSec",
 
         
         # Mensagens de boas-vindas
@@ -142,7 +142,7 @@ LANGUAGES = {
         'status_complete_clean': ">>> ANALYSIS COMPLETE: SYSTEM CLEAN",
         'status_error': ">>> SYSTEM ERROR",
 
-        'developed_by': "Developed by: João Pedro H. > Github: @JoaoPHS",
+        'developed_by': "Developed by: João Pedro H. > Gitlab: @PHDevSec",
         
         # Mensagens de boas-vindas
         'welcome_title': ">>> WinLogZ - Windows Log Analyzer v1.0",
@@ -269,7 +269,7 @@ LANGUAGES = {
         'status_complete_clean': ">>> ANÁLISIS COMPLETADO: SISTEMA LIMPIO",
         'status_error': ">>> ERROR DEL SISTEMA",
 
-        'developed_by': "Desarrollado por: João Pedro H. > Github: @JoaoPHS",
+        'developed_by': "Desarrollado por: João Pedro H. > Gitlab: @PHDevSec",
         
         # Mensagens de boas-vindas
         'welcome_title': ">>> WinLogZ - Windows Log Analyzer v1.0",
