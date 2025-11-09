@@ -1,6 +1,6 @@
 ![project_logo](images/winlogzanalysis.png)
 
-# 🔒 WinLogZ - Windows Log Analyzer 🔍
+# 🔒 WinLogZ - Windows Logs Analyzer v1.0🔍
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Windows](https://img.shields.io/badge/Platform-Windows-green.svg)
