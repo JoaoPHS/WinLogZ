@@ -1,0 +1,4 @@
+*.py linguist-detectable=true
+*.py linguist-language=Python
+*.json linguist-detectable=true
+*.md linguist-documentation
