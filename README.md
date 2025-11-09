@@ -43,7 +43,7 @@ O **WinLogZ** é uma aplicação desktop especializada na análise de logs de se
 
 ### 🎨 Interface Matrix
 - **Tema Verde/Preto**: Design inspirado no filme Matrix
-- **Console Interativo**: Terminal estilo hacker para resultados
+- **Console Interativo**: Terminal estilo hacking/Matrix
 - **Navegação Intuitiva**: Controles simplificados e eficientes
 
 ## 🚀 Instalação
