@@ -1,4 +1,4 @@
-![project_logo](images/winlogzanalysis.png)
+![project_logo](assets/winlogzanalysis.png)
 
 # 🔒 WinLogZ - Windows Logs Analyzer v1.0🔍
 
