@@ -111,6 +111,10 @@ python main.py
 
 wianalysis: # Repositório
     WinLogZ/ # Diretório Principal
+        ├── dist/                  # Diretório onde está o executável (exe)
+        ├──     ├── WinLogZ.exe
+        ├── assets/                # Recursos visuais
+        ├──     ├── winlogzanalysis.png                
         ├── main.py                 # Ponto de entrada da aplicação
         ├── gui.py                  # Interface gráfica Matrix
         ├── log_analyzer.py         # Motor de análise de logs
@@ -118,7 +122,7 @@ wianalysis: # Repositório
         ├── config.py              # Configurações e parâmetros
         ├── requirements.txt       # Dependências do projeto
         ├── README.md             # Documentação
-        └── assets/               # Recursos visuais
+        
 
 ```
 
@@ -129,6 +133,7 @@ wianalysis: # Repositório
 - log_analyzer.py: Núcleo de análise de segurança
 - language_manager.py: Gerenciador de multi-idioma
 - config.py: Central de configurações
+- WinLogZ.exe: Arquivo executável 
 
 ## 🛠️ Tecnologias
 
