@@ -109,15 +109,16 @@ python main.py
 ```bash
 📁 Estrutura do Projeto
 
-WinLogZ/
-├── main.py                 # Ponto de entrada da aplicação
-├── gui.py                  # Interface gráfica Matrix
-├── log_analyzer.py         # Motor de análise de logs
-├── language_manager.py     # Sistema de internacionalização
-├── config.py              # Configurações e parâmetros
-├── requirements.txt       # Dependências do projeto
-├── README.md             # Documentação
-└── assets/               # Recursos visuais
+wianalysis: # Repositório
+    WinLogZ/ # Diretório Principal
+        ├── main.py                 # Ponto de entrada da aplicação
+        ├── gui.py                  # Interface gráfica Matrix
+        ├── log_analyzer.py         # Motor de análise de logs
+        ├── language_manager.py     # Sistema de internacionalização
+        ├── config.py              # Configurações e parâmetros
+        ├── requirements.txt       # Dependências do projeto
+        ├── README.md             # Documentação
+        └── assets/               # Recursos visuais
 
 ```
 
