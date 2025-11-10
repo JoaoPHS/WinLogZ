@@ -117,7 +117,7 @@ WinLogZ/
 ├── config.py              # Configurações e parâmetros
 ├── requirements.txt       # Dependências do projeto
 ├── README.md             # Documentação
-└── images/               # Recursos visuais
+└── assets/               # Recursos visuais
 
 ```
 
