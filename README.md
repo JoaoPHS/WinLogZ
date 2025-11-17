@@ -10,14 +10,14 @@ Uma ferramenta avançada de análise de logs do Windows para monitoramento de se
 
 ## 📋 Índice
 
-- [Visão Geral](#visão-geral)
-- [Funcionalidades](#funcionalidades)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Tecnologias](#tecnologias)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Visão Geral](https://github.com/JoaoPHS/WinLogZ?tab=readme-ov-file#-vis%C3%A3o-geral)
+- [Funcionalidades](https://github.com/JoaoPHS/WinLogZ?tab=readme-ov-file#-funcionalidades)
+- [Instalação](https://github.com/JoaoPHS/WinLogZ?tab=readme-ov-file#-instala%C3%A7%C3%A3o)
+- [Como Usar](https://github.com/JoaoPHS/WinLogZ?tab=readme-ov-file#-como-usar)
+- [Estrutura do Projeto](https://github.com/JoaoPHS/WinLogZ/blob/main/README.md#-estrutura-do-projeto)
+- [Tecnologias](https://github.com/JoaoPHS/WinLogZ/blob/main/README.md#%EF%B8%8F-tecnologias)
+- [Contribuição](https://github.com/JoaoPHS/WinLogZ/blob/main/README.md#-contribui%C3%A7%C3%A3o)
+- [Licença](https://github.com/JoaoPHS/WinLogZ/blob/main/README.md#-licen%C3%A7a)
 
 ## 🎯 Visão Geral
 
@@ -226,3 +226,4 @@ git push origin feature/sua-feature
 
 
 </div>
+
