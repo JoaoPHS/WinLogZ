@@ -106,9 +106,9 @@ python main.py
 - Arquivo salvo como security_report_AAAAMMDD_HHMMSS.txt
 - Localize no diretório da aplicação
 
-```bash
-📁 Estrutura do Projeto
+# 📁 Estrutura do Projeto
 
+```bash
 wianalysis: # Repositório
     WinLogZ/ # Diretório Principal
         ├── dist/                  # Diretório onde está o executável (exe)
@@ -122,11 +122,9 @@ wianalysis: # Repositório
         ├── config.py              # Configurações e parâmetros
         ├── requirements.txt       # Dependências do projeto
         ├── README.md             # Documentação
-        
-
 ```
 
-🏗️ Arquitetura
+## 🏗️ Arquitetura
 
 - main.py: Orquestrador principal da aplicação
 - gui.py: Interface visual com tema Matrix
@@ -194,7 +192,7 @@ git push origin feature/sua-feature
 ```
 - Abra um Pull Request
 
-🎯 Áreas de Melhoria
+## 🎯 Áreas de Melhoria
 
 - Novos detectores de ameaças
 - Otimizações de performance
@@ -202,13 +200,13 @@ git push origin feature/sua-feature
 - Melhorias na interface
 - Análise mais avançada de logs
 
-📝 Guidelines
+## 📝 Guidelines
 
 - Siga o padrão PEP 8
 - Documente o código
 - Mantenha compatibilidade com Windows
 
-📄 Licença
+## 📄 Licença
 
 - Distribuído sob licença MIT.
 - [MIT License](https://opensource.org/license/mit)
@@ -225,5 +223,6 @@ git push origin feature/sua-feature
 #### ⭐ Se o WinLogZ foi útil para você, considere dar uma estrela no repositório! ⭐
 
 🛡️🔒 "Conhece-te a ti mesmo" 🔒🛡️
+
 
 </div>
